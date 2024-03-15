@@ -6,5 +6,6 @@ class Main {
     UserOutput.println("Vitejte v naší hře");
 
 
+
     }
 }
